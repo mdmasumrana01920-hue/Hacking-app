@@ -1,0 +1,6 @@
+{
+  "name": "Cybersecurity Lab",
+  "description": "An interactive learning sandbox for ethical hacking, cybersecurity concepts, and secure coding challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
